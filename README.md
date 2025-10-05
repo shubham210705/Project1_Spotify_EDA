@@ -48,12 +48,10 @@
 - ✔  Korean songs (14%) have the **highest mean popularity**,suggesting high engagement despite lower volume.
 - ✔ Mode is Secondary: **Do not let mode constrain your creative choice.** 
 
-
-
-
-How to Run the Notebook
-
-Install the required dependencies by running the following command
+**
+🚀 How to Run
+Clone this repository
+Install the required dependencies**:
 
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn
