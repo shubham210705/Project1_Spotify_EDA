@@ -1,14 +1,4 @@
-<h1 align="center">🎵 Spotify EDA Project</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Analysis-EDA-blue.svg" />
-  <img src="https://img.shields.io/badge/Python-3.8+-green.svg" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange.svg" />
-  <img src="https://img.shields.io/badge/Status-Complete-success.svg" />
-  <img src="https://img.shields.io/github/license/your-username/Spotify_EDA_Project" />
-</p>
-
----
 
 ## 📊 Project Overview  
 
