@@ -60,8 +60,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 ```
 
 
-#If unable 
-
+**If you are unable to run the notebook locally, download the Spotify_EDA_Analysis.ipynb file along with the datasets, and run it directly on Google Colab.**
 
 ## 📂 Project Structure  
 
