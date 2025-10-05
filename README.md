@@ -48,9 +48,11 @@
 - ✔  Korean songs (14%) have the **highest mean popularity**,suggesting high engagement despite lower volume.
 - ✔ Mode is Secondary: **Do not let mode constrain your creative choice.** 
 
-**
-🚀 How to Run
-Clone this repository
+
+## 🚀 How to Run
+
+**Clone this repository
+
 Install the required dependencies**:
 
 ```bash
